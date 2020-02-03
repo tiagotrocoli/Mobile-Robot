@@ -1,4 +1,4 @@
-# Last Project of Mobile Robot from State Univ. of Campinas
+# Last Project of Mobile Robot of Computer Science Master's course 
 
 Our final project desciption:
 
